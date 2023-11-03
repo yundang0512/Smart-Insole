@@ -1,4 +1,4 @@
-﻿FSR_0,FSR_1,FSR_2,FSR_3,FSR_4,FSR_5,FSR_6,FSR_7,Swing time(s),Stride time(s),Swing percentage(%),Stride percentage(%),averageXAngleChange,stroke
+﻿FSR_0,FSR_1,FSR_2,FSR_3,FSR_4,FSR_5,FSR_6,FSR_7,Swing time(s),Stride time(s),Swing percentage(%),Stride percentage(%),average of AngleChange,stroke
 1179.01,2831.34,1536.15,1666.67,2380.96,1887.56,1376.94,0,628,1007,38.41,61.59,-1.65,0
 1517.5,3481.08,1583.48,2489.97,1656.63,479.06,0,0,628,1007,38.41,61.59,-27.59,0
 1765.64,3658.93,1656.63,2815.56,580.9,0,0,0,628,1007,38.41,61.59,27.41,0
